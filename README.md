@@ -15,7 +15,6 @@ The goal of this programming project is to implement intelligent agents for the 
     * [Setup](#setup)
     * [Usage](#usage)
 - [Instructions](#instructions)
-- [Typical mistakes and bad practices](#typical-mistakes-and-bad-practices)
 - [FAQ](#faq)
     * [Game score](#score)
     * [API](#api)
