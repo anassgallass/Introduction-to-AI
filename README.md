@@ -12,8 +12,8 @@ python
 
 ### Authors
 
-Anass Gallass </br>
-Yassine Maziane
+A. Gallass </br>
+Y. Maziane
 
 ### Scores
 
