@@ -1,8 +1,6 @@
 
 # Project
 
---
-
 Project realized as part of the Introduction to artificial intelligence course given by Professor Louppe to the students of Civil Engineering at the University of Liège during the academic year 2020-2021.
 
 Language used : python 
