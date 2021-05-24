@@ -23,4 +23,5 @@ Part 1 (search agent) 17/20. </br>
 Part 2 (minimax agent) 13/20. </br>
 Part 3 (reasoning over time) 16/20. </br>
 
-For more informations about the project : https://github.com/glouppe/info8006-introduction-to-ai/tree/master/projects
+For more informations about the project : </br> 
+https://github.com/glouppe/info8006-introduction-to-ai/tree/master/projects
