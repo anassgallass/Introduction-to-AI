@@ -12,8 +12,7 @@ python
 
 ### Authors
 
-A. Gallass </br>
-Y. Maziane
+A. Gallass & Y. Maziane
 
 ### Scores
 
