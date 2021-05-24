@@ -5,9 +5,7 @@ Project realized as part of the Introduction to artificial intelligence course t
 
 The goal of this programming project was to implement intelligent agents for the game of Pacman. 
 
-<img src="https://github.com/glouppe/info8006-introduction-to-ai/blob/master/projects/pacman_game.png"
-     alt=" icon"
-     style="float: center; margin-right: 5px;" />
+<img src="http://ai.berkeley.edu/images/pacman_game.gif" />
 
 ### Language used
 python 
